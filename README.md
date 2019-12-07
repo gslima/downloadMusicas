@@ -7,7 +7,7 @@ Programa em Python para fazer o download de músicas em serviços de streaming.
 
 # Execução
 
-Para baixar as músicas, prepare um arquivo list.txt, e rode o comando abaixo:
+Para baixar as músicas, prepare um arquivo list.txt (nome do artista e música por cada linha), e rode o comando abaixo:
 ```
 python spotdl.py
 ```
