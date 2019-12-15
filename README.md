@@ -17,4 +17,4 @@ python spotdl.py -m
 ```
 
 # Disclaimer
-Este autor não se responsabiliza pelo meu uso do programa, e alerta para baixar somente as músicas que tiver o direito de baixar.
+Este autor não se responsabiliza pelo mau uso do programa, e alerta para baixar somente as músicas que tiver o direito de baixar.
